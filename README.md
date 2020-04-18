@@ -6,7 +6,7 @@
 VERSION: 0.1.0
 
 
-## Table of Content
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Hash Function](#hash-function)
